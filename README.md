@@ -4,8 +4,8 @@ An iOS and Android cross patform React Native module to upload files from the de
 
 # Installation
 ```
-$ npm install react-native-file-uploader --save
-$ rnpm link react-native-file-uploader
+$ npm install react-native-files-uploaders --save
+$ rnpm link react-native-files-uploaders
 ```
 
 # Usage
